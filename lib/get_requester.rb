@@ -1,5 +1,5 @@
 require 'net/http'
-require 'opten-uri'
+require 'open-uri'
 require 'json'
 
 class GetRequester
